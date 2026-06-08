@@ -1,0 +1,22 @@
+{
+  "name": "KOTBot",
+  "short_name": "KOTBot",
+  "description": "Kenya X Content Generator",
+  "start_url": "/kotbot/",
+  "display": "standalone",
+  "background_color": "#0a0a0a",
+  "theme_color": "#00e5a0",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "https://via.placeholder.com/192x192/00e5a0/000000?text=KOT",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "https://via.placeholder.com/512x512/00e5a0/000000?text=KOT",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
